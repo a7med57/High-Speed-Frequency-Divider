@@ -41,4 +41,4 @@ The circuit successfully divides the 2GHz input clock to a 1GHz output with full
 
 
 ## Documentation
-For full transistor sizing, propagation delay analysis, and trade-offs, please refer to the [Project Report](High-Speed-Frequency-Divider/docs/Frequency_Divider_Project.pdf).
+For full transistor sizing, propagation delay analysis, and trade-offs, please refer to the [Project Report](High-Speed-Frequency-Divider/docs/Frequency Divider Project.pdf).
